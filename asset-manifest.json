@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react-pub/static/js/main.b0c13a2c.js",
+    "index.html": "/react-pub/index.html",
+    "main.b0c13a2c.js.map": "/react-pub/static/js/main.b0c13a2c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b0c13a2c.js"
+  ]
+}
